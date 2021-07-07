@@ -1,0 +1,11 @@
+.user-img{
+    height: 32px;
+    width: 32px;
+    position: relative;
+    z-index: 0;
+    margin: 0;
+    border: 0;
+    background-size: 32px 32px;
+    border-radius: 50%;
+    display: block;
+}
